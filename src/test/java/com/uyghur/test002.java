@@ -2,7 +2,6 @@ package com.uyghur;
 
 public class test002 {
 
-
-    //test conflict on master
-
+    //Jewel test 2 conflicit
+    //2 Jewel
 }
