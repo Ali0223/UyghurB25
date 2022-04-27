@@ -7,5 +7,7 @@ public class test01 {
     //line9--Jewel1
     //line 7 --- gulsen  //line9--Jewel2
 
+    //test conflict
+     //cool cool cool
 
 }
